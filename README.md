@@ -11,7 +11,7 @@ Email Me 👉 ✉️ [git986821@gmail.com] For Collaboration/Project or Anything
 - 👯 **I’m looking to collaborate on:** Open source Machine Learning projects
 - 📑 **I’m looking for help with:** Advanced Machine Learning Algorithms
 - 💬 **Ask me about:** Machine Learning Concepts
-- 📫 **How to reach me:** [Your Email Here]
+- 📫 **How to reach me:** [git986821@gmail.com]
 - 😄 **Pronouns:** neuroforgex13
 - ⚡ **Fun fact:** I Love Machine Learning and Machine Learning Loves Me ❤️
 
